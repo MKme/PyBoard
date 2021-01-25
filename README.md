@@ -1,6 +1,6 @@
 # PyBoard STM32 Microcontroller stuffs that Eric figures out about this handy little board 
 
-Pyboard STM32 Stuff, code, ideas and any tutorials I make will be wtored here and videos linked on YouTube
+Pyboard STM32 Stuff, code, ideas and any tutorials I make will be stored here and videos linked on YouTube
 <p align="center">
 <br>
 🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=CyrgzzxQPzk&ab_channel=GreatScott%21
 
 ## Programming Steps
 
-1. Edit Main.py
+Edit Main.py
 
 Save File
 
@@ -36,7 +36,7 @@ Eject USB
 
 Press Button to reboot board
 
-Serila?  No idea as Eric cant get it working just yet arrrrrrrrrgh
+Serial?  No idea as Eric cant get it working just yet arrrrrrrrrgh
 
 
 # Specs:
