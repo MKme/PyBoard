@@ -18,6 +18,9 @@ Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 
 Pyboard Tool Forum Thread For Discussion with Eric - http://mkme.org/forum/
 
+Buy a board here:  https://amzn.to/3qKkqOn
+
+
 # FULL video tutorial:
 
 
