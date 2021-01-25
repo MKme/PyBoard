@@ -60,7 +60,6 @@ LC Python development board adopts STM32F405 SCM ,sends data by USB port.It work
 
 11.       2 SPI ,2CAN ,2 I2C,5UART ,14PCS 12BIT ADC PIN,2 ADC PIN
 
-### Hardware introduction and specifications :
 
 Board size :49.4*51.1mm
 
@@ -75,13 +74,11 @@ RST:reset button
 P1-P8:extended port
 
 
-##Handy Links on this board and MicroPython 
-
+## Handy Links on this board and MicroPython 
 
 Board: https://micropython.org/download/pybv1/
 
 Board: http://www.chinalctech.com/cpzx/STM32_Study_Board/338.html
-
 
 Processor:  https://www.st.com/en/microcontrollers-microprocessors/stm32f405rg.html
 
