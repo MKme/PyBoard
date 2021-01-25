@@ -20,6 +20,7 @@ Pyboard Tool Forum Thread For Discussion with Eric - http://mkme.org/forum/
 
 Buy a board here:  https://amzn.to/3qKkqOn
 
+ <img src="https://github.com/MKme/PyBoard/blob/main/Pics/1.jpg" width="700"/>
 
 ## FULL video tutorial:
 
@@ -32,7 +33,6 @@ Tech   info  : http://www.mediafire.com/file/c3uhc337lrucmg6/LC-STM32-python_EN.
 
 LC Python development board adopts STM32F405 SCM ,sends data by USB port.It works between 3.6V and 10 V,with 4 build in LED light and one accelerating sensor .Let you be a geek by Python easily.It supports Python Language .
 
-###Specs :
 
 1.        On board STM32F405RG MCU
 
