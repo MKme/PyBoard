@@ -2,8 +2,7 @@
 
 Pyboard STM32 Stuff, code, ideas and any tutorials I make will be wtored here and videos linked on YouTube
 <p align="center">
-<br>
-<br>
+
 🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
 | 📺 <a href="https://www.youtube.com/mkmeorg">YouTube</a>
 | 🌍 <a href="http://www.mkme.org">mkme.org</a><br>
