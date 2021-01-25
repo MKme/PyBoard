@@ -1,0 +1,12 @@
+http://www.micropython.org
+
+http://www.micropython.org.cn
+
+Safe mode and factory reset
+http://docs.micropython.org/en/latest/pyboard/pyboard/tutorial/reset.html
+
+准备挖C/C++墙角的MicroPython到底值不值得学？——pyboard评测
+http://www.eeboard.com/evaluation/pyboard/4/
+
+用Python来做嵌入式开发——Adafruit PyBoard评测
+http://www.21ic.com/evm/evaluate/MCU/201709/737822.htm

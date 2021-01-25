@@ -1,0 +1,2 @@
+hid=pyb.USB_HID()
+hid.send((0,100,0,0))
