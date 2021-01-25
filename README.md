@@ -14,7 +14,6 @@ Website, Forum and store are at http://mkme.org <br>
 Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 </p>
 
-# Links for more information
 
 Pyboard Tool Forum Thread For Discussion with Eric - http://mkme.org/forum/
 
@@ -29,7 +28,7 @@ Pyboard Tool Forum Thread For Discussion with Eric - http://mkme.org/forum/
 
 https://www.youtube.com/watch?v=CyrgzzxQPzk&ab_channel=GreatScott%21
 
-### Specs:
+# Specs:
 
 SKU  :LC-STM32-python
 
