@@ -31,6 +31,18 @@ https://www.youtube.com/watch?v=CyrgzzxQPzk&ab_channel=GreatScott%21
 
 <img src="https://github.com/MKme/PyBoard/blob/main/Pics/Pinout.PNG" width="700"/>
 
+## Programming Steps
+
+Edit Main.py
+
+Save File
+
+Eject USB
+
+Press Button to reboot board
+
+Seril?  No idea as Eric cant get it working just yet arrrrrrrrrgh
+
 
 # Specs:
 
