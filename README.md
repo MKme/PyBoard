@@ -1,11 +1,9 @@
 # PyBoard STM32 Microcontroller stuffs that Eric figures out about this handy little board 
 
 Pyboard STM32 Stuff, code, ideas and any tutorials I make will be wtored here and videos linked on YouTube
-
 <p align="center">
+<br>
 
-<br>
-<br>
 🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
 | 📺 <a href="https://www.youtube.com/mkmeorg">YouTube</a>
 | 🌍 <a href="http://www.mkme.org">mkme.org</a><br>
@@ -13,7 +11,7 @@ Support this project and become a patron on <a href="http://mkme.org/patreon">Er
 Website, Forum and store are at http://mkme.org <br>
 Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 </p>
-
+<br>
 
 Pyboard Tool Forum Thread For Discussion with Eric - http://mkme.org/forum/
 
@@ -41,7 +39,7 @@ Eject USB
 
 Press Button to reboot board
 
-Seril?  No idea as Eric cant get it working just yet arrrrrrrrrgh
+Serila?  No idea as Eric cant get it working just yet arrrrrrrrrgh
 
 
 # Specs:
