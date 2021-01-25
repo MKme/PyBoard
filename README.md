@@ -1,6 +1,6 @@
 # PyBoard STM32 Microcontroller stuffs that Eric figures out about this handy little board 
 
-Pyboard ST32 Stuff
+Pyboard STM32 Stuff, code, ideas and any tutorials I make will be wtored here and videos linked on YouTube
 
 <p align="center">
 
