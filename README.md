@@ -1,4 +1,4 @@
-# PyBoard STM32 Microcontroller stuffs 
+# PyBoard STM32 Microcontroller stuffs the Eric figures out about this handy little board 
 
 Pyboard ST32 Stuff
 
@@ -21,10 +21,66 @@ Pyboard Tool Forum Thread For Discussion with Eric - http://mkme.org/forum/
 # FULL video tutorial:
 
 
-http://www.chinalctech.com/cpzx/STM32...​
-https://www.st.com/en/microcontroller...​
-https://micropython.org/download/pybv1/​
-http://docs.micropython.org/en/latest/​
-http://wiki.micropython.org/Home​
-https://awesome-micropython.com/​
-https://www.putty.org/
+### Specs:
+
+SKU  :LC-STM32-python
+
+Tech   info  : http://www.mediafire.com/file/c3uhc337lrucmg6/LC-STM32-python_EN.zip/file
+
+LC Python development board adopts STM32F405 SCM ,sends data by USB port.It works between 3.6V and 10 V,with 4 build in LED light and one accelerating sensor .Let you be a geek by Python easily.It supports Python Language .
+
+Functions :
+
+1.On board STM32F405RG MCU
+
+2.168 MHz Cortex-M4 CPU with 32-bit hardware floating point
+
+3.1 MB flash storage, 192 KB RAM
+
+4.USB port,serial port,universal memory ,HID protocol
+
+5.SD card slot
+
+6.MMA76603 axis accelerator
+
+7.4 LEDs,one reset button,one universal button
+
+8.3V 0.3A on board LDO,power by USB or outside battery
+
+9.        real time clock
+
+10.    30 pcs normal IO terminal ,and 28pcs of them support 5V input and output
+
+11.    2 SPI ,2CAN ,2 I2C,5UART ,14PCS 12BIT ADC PIN,2 ADC PIN
+
+ Hardware introduction and specifications :
+
+Board size :49.4*51.1mm
+
+Port specification  :
+
+U3:SD slot
+
+MICRO:USB power supply
+
+RST:reset button
+
+P1-P8:extended port
+
+
+##Handy Links on this board and MicroPython 
+
+
+Board: https://micropython.org/download/pybv1/
+
+Board: http://www.chinalctech.com/cpzx/STM32_Study_Board/338.html
+
+
+Processor:  https://www.st.com/en/microcontrollers-microprocessors/stm32f405rg.html
+
+https://awesome-micropython.com/
+
+http://wiki.micropython.org/Home
+
+http://docs.micropython.org/en/latest/
+
