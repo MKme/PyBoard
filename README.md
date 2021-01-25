@@ -29,7 +29,7 @@ Pyboard Tool Forum Thread For Discussion with Eric - http://mkme.org/forum/
 https://www.youtube.com/watch?v=CyrgzzxQPzk&ab_channel=GreatScott%21
 
 
-<img src="https://github.com/MKme/PyBoard/blob/main/Pics/pinout.png" width="700"/>
+<img src="https://github.com/MKme/PyBoard/blob/main/Pics/Pinout.PNG" width="700"/>
 
 
 # Specs:
