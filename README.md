@@ -1,4 +1,4 @@
-# PyBoard STM32 Microcontroller stuffs the Eric figures out about this handy little board 
+# PyBoard STM32 Microcontroller stuffs that Eric figures out about this handy little board 
 
 Pyboard ST32 Stuff
 
@@ -18,12 +18,16 @@ Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 
 Pyboard Tool Forum Thread For Discussion with Eric - http://mkme.org/forum/
 
-Buy a board here:  https://amzn.to/3qKkqOn
+### Buy a board here:  https://amzn.to/3qKkqOn
 
  <img src="https://github.com/MKme/PyBoard/blob/main/Pics/1.jpg" width="700"/>
 
 ## FULL video tutorial:
 
+
+## Another Handy Tutorial
+
+https://www.youtube.com/watch?v=CyrgzzxQPzk&ab_channel=GreatScott%21
 
 ### Specs:
 
