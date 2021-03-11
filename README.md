@@ -12,12 +12,13 @@ Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 </p>
 Pyboard Tool Forum Thread For Discussion with Eric - http://mkme.org/forum/
 
-### Buy a board here:  https://amzn.to/3qKkqOn
-
+### Buy a board on Amazon here:  https://amzn.to/3qKkqOn
+### Buy a board on eBay here:  https://ebay.us/H5kUT5
  <img src="https://github.com/MKme/PyBoard/blob/main/Pics/1.jpg" width="700"/>
 
 ## FULL video tutorial:
 
+https://www.youtube.com/watch?v=r8eVohfq4jc
 
 ## Another Handy Tutorial
 
